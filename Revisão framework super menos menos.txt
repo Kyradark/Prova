@@ -1,0 +1,7 @@
+Revisão framework super menos menos tá bem meia boca nao repara ok
+
+npm create vite@latest nomeprojeto - PARA CRIAR PROJETO NO REACT, após o comando você
+deve selecionar o framework react e a linguagem javascript
+-> cd nomeprojeto - para entrar na pasta do projeto
+-> npm install - para instalar a pasta node_modules que é necessária para a execução do projeto
+-> npm run dev - para iniciar e rodar o projeto.
