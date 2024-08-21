@@ -1,0 +1,336 @@
+{
+    "musicas_virais": [
+      {
+        "ano": 2000,
+        "top_musicas": [
+          {
+            "titulo": "Smooth",
+            "artista": "Santana featuring Rob Thomas",
+            "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaNficL3f1vszpAjrijOohlcb5zXPDGHtibw&s",
+            "visualizacoes": 1000000
+          },
+          {
+            "titulo": "Oops!... I Did It Again",
+            "artista": "Britney Spears",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/0/0e/Capa_do_%C3%A1lbum_Oops%21...I_Did_It_Again_%282000%29_de_Britney_Spears.jpg",
+            "visualizacoes": 950000
+          }
+        ]
+      },
+      {
+        "ano": 2001,
+        "top_musicas": [
+          {
+            "titulo": "Hanging by a Moment",
+            "artista": "Lifehouse",
+            "capa":"https://upload.wikimedia.org/wikipedia/en/6/67/Lifehousehangingbyamoment.jpg",
+            "visualizacoes": 1100000
+          },
+          {
+            "titulo": "Lady Marmalade",
+            "artista": "Christina Aguilera, Lil' Kim, Mýa, Pink",
+            "capa":"https://i.scdn.co/image/ab67616d0000b273f4edb1118ffdcb6a2484f9e1",
+            "visualizacoes": 1050000
+          }
+        ]
+      },
+      {
+        "ano": 2002,
+        "top_musicas": [
+          {
+            "titulo": "How You Remind Me",
+            "artista": "Nickelback",
+            "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjJh-tq1tjYS7WvO5n30lkSfik3fFi9ZhONQ&s",
+            "visualizacoes": 1200000
+          },
+          {
+            "titulo": "Complicated",
+            "artista": "Avril Lavigne",
+            "capa":"https://i1.sndcdn.com/artworks-quv3eGT2hz2UCZjn-xlT8Nw-t500x500.jpg",
+            "visualizacoes": 1150000
+          }
+        ]
+      },
+      {
+        "ano": 2003,
+        "top_musicas": [
+          {
+            "titulo": "In da Club",
+            "artista": "50 Cent",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/0/06/50_Cent_-_In_da_Club.jpg",
+            "visualizacoes": 1300000
+          },
+          {
+            "titulo": "Bring Me to Life",
+            "artista": "Evanescence",
+            "capa":"https://i1.sndcdn.com/artworks-000065985701-ozora5-t500x500.jpg",
+            "visualizacoes": 1180000
+          }
+        ]
+      },
+      {
+        "ano": 2004,
+        "top_musicas": [
+          {
+            "titulo": "Yeah!",
+            "artista": "Usher featuring Lil Jon and Ludacris",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/8/89/Yeah%21_can%C3%A7%C3%A3o.png",
+            "visualizacoes": 1400000
+          },
+          {
+            "titulo": "This Love",
+            "artista": "Maroon 5",
+            "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIUFeCXVylEU9SiQmgCmmsonAdIYh4VE6cqA&s",
+            "visualizacoes": 1250000
+          }
+        ]
+      },
+      {
+        "ano": 2005,
+        "top_musicas": [
+          {
+            "titulo": "We Belong Together",
+            "artista": "Mariah Carey",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/6/6f/Webelongtogether.jpg",
+            "visualizacoes": 1500000
+          },
+          {
+            "titulo": "Gold Digger",
+            "artista": "Kanye West featuring Jamie Foxx",
+            "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh-hZ2v3tX9eudYu8Si1_A4uStw1i33CFjMw&s",
+            "visualizacoes": 1350000
+          }
+        ]
+      },
+      {
+        "ano": 2006,
+        "top_musicas": [
+          {
+            "titulo": "Bad Day",
+            "artista": "Daniel Powter",
+            "capa":"https://m.media-amazon.com/images/I/51yvnVXCd+L._UF1000,1000_QL80_.jpg",
+            "visualizacoes": 1200000
+          },
+          {
+            "titulo": "Temperature",
+            "artista": "Sean Paul",
+            "capa":"https://i.discogs.com/rjfC8yuD8rdIj57WW-JAWQHPojnuJddcm3AjPS0B3c8/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjA2/NDgtMTU4Mzk2NzI2/My0yODQ0LmpwZWc.jpeg",
+            "visualizacoes": 1150000
+          },
+          {
+            "titulo": "Hips Don't Lie",
+            "artista": "Shakira featuring Wyclef Jean",
+            "capa":"https://4.bp.blogspot.com/_BU8YD_zdYoQ/Rdq-vhSB_HI/AAAAAAAABXQ/t3x--cVdsCQ/s400/032.jpg",
+            "visualizacoes": 1100000
+          }
+        ]
+      },
+      {
+        "ano": 2007,
+        "top_musicas": [
+          {
+            "titulo": "Umbrella",
+            "artista": "Rihanna featuring Jay-Z",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/6/6d/Rihanna_Umbrella.jpg",
+            "visualizacoes": 1400000
+          },
+          {
+            "titulo": "Irreplaceable",
+            "artista": "Beyoncé",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/thumb/3/37/Beyonc%C3%A9_-_Irreplaceable.jpg/220px-Beyonc%C3%A9_-_Irreplaceable.jpg",
+            "visualizacoes": 1300000
+          },
+          {
+            "titulo": "The Sweet Escape",
+            "artista": "Gwen Stefani featuring Akon",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/a/a7/Gwen-The_Sweet_Escape_%28%C3%A1lbum%29.jpg",
+            "visualizacoes": 1200000
+          }
+        ]
+      },
+      {
+       "ano": 2008,
+        "top_musicas": [
+          {
+            "titulo": "Bleeding Love",
+            "artista": "Leona Lewis",
+            "capa":"https://i.scdn.co/image/ab67616d0000b2738dbd17ec4836da606cce0a6d",
+            "visualizacoes": 1500000
+          },
+          {
+            "titulo": "Low",
+            "artista": "Flo Rida featuring T-Pain",
+            "capa":"https://cdns-images.dzcdn.net/images/cover/349a8664caf2437f1bc5f46880d43f5e/500x500.jpg",
+            "visualizacoes": 1400000
+          },
+          {
+            "titulo": "Viva la Vida",
+            "artista": "Coldplay",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/d/d7/Vivalavida.jpg",
+            "visualizacoes": 1300000
+          }
+        ]
+      },
+      {
+        "ano": 2009,
+        "top_musicas": [
+          {
+            "titulo": "Boom Boom Pow",
+            "artista": "The Black Eyed Peas",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/d/d3/Capa_de_Boom_Boom_Pow.jpg",
+            "visualizacoes": 1600000
+          },
+          {
+            "titulo": "Poker Face",
+            "artista": "Lady Gaga",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/2/21/Poker_Face_Lady_Gaga.jpg",
+            "visualizacoes": 1500000
+          },
+          {
+            "titulo": "Just Dance",
+            "artista": "Lady Gaga featuring Colby O'Donis",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/c/c9/Lady-gaga-just-dance.jpg",
+            "visualizacoes": 1400000
+          }
+        ]
+      },
+      {
+        "ano": 2010,
+        "top_musicas": [
+          {
+            "titulo": "TiK ToK",
+            "artista": "Ke$ha",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/thumb/9/99/TiK_ToK_-_Kesha.JPG/220px-TiK_ToK_-_Kesha.JPG",
+            "visualizacoes": 1700000
+          },
+          {
+            "titulo": "Need You Now",
+            "artista": "Lady A",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/6/60/Need_You_Now.jpg",
+            "visualizacoes": 1600000
+          },
+          {
+            "titulo": "Hey, Soul Sister",
+            "artista": "Train",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/5/50/Capa_Hey%2C_Soul_Sister.jpg",
+            "visualizacoes": 1500000
+          }
+        ]
+      },
+      {
+        "ano": 2011,
+        "top_musicas": [
+          {
+            "titulo": "Rolling in the Deep",
+            "artista": "Adele",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/5/5a/Capa_do_single_Rolling_in_The_Deep.jpg",
+            "visualizacoes": 2000000
+          },
+          {
+            "titulo": "Party Rock Anthem",
+            "artista": "LMFAO featuring Lauren Bennett & GoonRock",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/f/f6/Party_Rock_Anthem.jpg",
+            "visualizacoes": 1900000
+          },
+          {
+            "titulo": "Firework",
+            "artista": "Katy Perry",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/b/be/Katy_Perry_Firework.PNG",
+            "visualizacoes": 1800000
+          }
+        ]
+      },
+      {
+        "ano": 2012,
+        "top_musicas": [
+          {
+            "titulo": "Somebody That I Used to Know",
+            "artista": "Gotye featuring Kimbra",
+            "capa":"https://pm1.aminoapps.com/6467/5ea1841f9e42782b9c9a98a807f0900906fd90b2_00.jpg",
+            "visualizacoes": 2200000
+          },
+          {
+            "titulo": "Call Me Maybe",
+            "artista": "Carly Rae Jepsen",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/a/a8/Carly_Rae_Jepsen_-_Call_Me_Maybe_%28capa%29.jpeg",
+            "visualizacoes": 2100000
+          },
+          {
+            "titulo": "We Are Young",
+            "artista": "fun. featuring Janelle Monáe",
+            "capa":"https://i.pinimg.com/originals/cf/04/a2/cf04a232b624a15fa5016dc95ede7faa.jpg",
+            "visualizacoes": 2000000
+          }
+        ]
+      },
+      {
+        "ano": 2013,
+        "top_musicas": [
+          {
+            "titulo": "Blurred Lines",
+            "artista": "Robin Thicke featuring T.I. & Pharrell",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/4/44/Capa_de_Blurred_Lines_%28%C3%A1lbum%29.png",
+            "visualizacoes": 2300000
+          },
+          {
+            "titulo": "Radioactive",
+            "artista": "Imagine Dragons",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/e/e9/Capa_de_Radioactive_%28Imagine_Dragons%29.jpg",
+            "visualizacoes": 2200000
+          },
+          {
+            "titulo": "Royals",
+            "artista": "Lorde",
+            "capa":"https://i1.sndcdn.com/artworks-000111452182-60ul0s-t500x500.jpg",
+            "visualizacoes": 2100000
+          }
+        ]
+      },
+      {
+        "ano": 2014,
+        "top_musicas": [
+          {
+            "titulo": "Happy",
+            "artista": "Pharrell Williams",
+            "capa":"https://i1.sndcdn.com/artworks-000079184494-1nll8c-t500x500.jpg",
+            "visualizacoes": 2400000
+          },
+          {
+            "titulo": "Dark Horse",
+            "artista": "Katy Perry featuring Juicy J",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/0/08/Katy_Perry_-_Dark_Horse.jpg",
+            "visualizacoes": 2300000
+          },
+          {
+            "titulo": "All of Me",
+            "artista": "John Legend",
+            "capa":"https://i.discogs.com/hSCKfD63gSAlMNmtcRRDgpnIhlAjaMvJJG0oyDTO_mY/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDQ3/NzgtMTQxMzY1NTcx/MC01MTgyLmpwZWc.jpeg",
+            "visualizacoes": 2200000
+          }
+        ]
+      },
+      {
+      "ano": 2015,
+        "top_musicas": [
+          {
+            "titulo": "Uptown Funk",
+            "artista": "Mark Ronson featuring Bruno Mars",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/9/9e/Uptown_Special.jpg",
+            "visualizacoes": 2500000
+          },
+          {
+            "titulo": "See You Again",
+            "artista": "Wiz Khalifa featuring Charlie Puth",
+            "capa":"https://i1.sndcdn.com/artworks-000116177725-alap1o-t500x500.jpg",
+            "visualizacoes": 2400000
+          },
+          {
+            "titulo": "Thinking Out Loud",
+            "artista": "Ed Sheeran",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/b/b7/Capa_de_Thinking_Out_Loud.png",
+            "visualizacoes": 2300000
+          }
+        ]
+      }
+    ]
+  }

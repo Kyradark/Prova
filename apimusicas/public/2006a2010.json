@@ -1,0 +1,119 @@
+{
+    "musicas_virais": [
+      {
+        "ano": 2006,
+        "top_musicas": [
+          {
+            "titulo": "Bad Day",
+            "artista": "Daniel Powter",
+            "capa":"https://m.media-amazon.com/images/I/51yvnVXCd+L._UF1000,1000_QL80_.jpg",
+            "visualizacoes": 1200000
+          },
+          {
+            "titulo": "Temperature",
+            "artista": "Sean Paul",
+            "capa":"https://i.discogs.com/rjfC8yuD8rdIj57WW-JAWQHPojnuJddcm3AjPS0B3c8/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjA2/NDgtMTU4Mzk2NzI2/My0yODQ0LmpwZWc.jpeg",
+            "visualizacoes": 1150000
+          },
+          {
+            "titulo": "Hips Don't Lie",
+            "artista": "Shakira featuring Wyclef Jean",
+            "capa":"https://4.bp.blogspot.com/_BU8YD_zdYoQ/Rdq-vhSB_HI/AAAAAAAABXQ/t3x--cVdsCQ/s400/032.jpg",
+            "visualizacoes": 1100000
+          }
+        ]
+      },
+      {
+        "ano": 2007,
+        "top_musicas": [
+          {
+            "titulo": "Umbrella",
+            "artista": "Rihanna featuring Jay-Z",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/6/6d/Rihanna_Umbrella.jpg",
+            "visualizacoes": 1400000
+          },
+          {
+            "titulo": "Irreplaceable",
+            "artista": "Beyoncé",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/thumb/3/37/Beyonc%C3%A9_-_Irreplaceable.jpg/220px-Beyonc%C3%A9_-_Irreplaceable.jpg",
+            "visualizacoes": 1300000
+          },
+          {
+            "titulo": "The Sweet Escape",
+            "artista": "Gwen Stefani featuring Akon",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/a/a7/Gwen-The_Sweet_Escape_%28%C3%A1lbum%29.jpg",
+            "visualizacoes": 1200000
+          }
+        ]
+      },
+      {
+        "ano": 2008,
+        "top_musicas": [
+          {
+            "titulo": "Bleeding Love",
+            "artista": "Leona Lewis",
+            "capa":"https://i.scdn.co/image/ab67616d0000b2738dbd17ec4836da606cce0a6d",
+            "visualizacoes": 1500000
+          },
+          {
+            "titulo": "Low",
+            "artista": "Flo Rida featuring T-Pain",
+            "capa":"https://cdns-images.dzcdn.net/images/cover/349a8664caf2437f1bc5f46880d43f5e/500x500.jpg",
+            "visualizacoes": 1400000
+          },
+          {
+            "titulo": "Viva la Vida",
+            "artista": "Coldplay",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/d/d7/Vivalavida.jpg",
+            "visualizacoes": 1300000
+          }
+        ]
+      },
+      {
+        "ano": 2009,
+        "top_musicas": [
+          {
+            "titulo": "Boom Boom Pow",
+            "artista": "The Black Eyed Peas",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/d/d3/Capa_de_Boom_Boom_Pow.jpg",
+            "visualizacoes": 1600000
+          },
+          {
+            "titulo": "Poker Face",
+            "artista": "Lady Gaga",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/2/21/Poker_Face_Lady_Gaga.jpg",
+            "visualizacoes": 1500000
+          },
+          {
+            "titulo": "Just Dance",
+            "artista": "Lady Gaga featuring Colby O'Donis",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/c/c9/Lady-gaga-just-dance.jpg",
+            "visualizacoes": 1400000
+          }
+        ]
+      },
+      {
+        "ano": 2010,
+        "top_musicas": [
+          {
+            "titulo": "TiK ToK",
+            "artista": "Ke$ha",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/thumb/9/99/TiK_ToK_-_Kesha.JPG/220px-TiK_ToK_-_Kesha.JPG",
+            "visualizacoes": 1700000
+          },
+          {
+            "titulo": "Need You Now",
+            "artista": "Lady A",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/6/60/Need_You_Now.jpg",
+            "visualizacoes": 1600000
+          },
+          {
+            "titulo": "Hey, Soul Sister",
+            "artista": "Train",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/5/50/Capa_Hey%2C_Soul_Sister.jpg",
+            "visualizacoes": 1500000
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,119 @@
+{
+    "musicas_virais": [
+      {
+        "ano": 2011,
+        "top_musicas": [
+          {
+            "titulo": "Rolling in the Deep",
+            "artista": "Adele",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/5/5a/Capa_do_single_Rolling_in_The_Deep.jpg",
+            "visualizacoes": 2000000
+          },
+          {
+            "titulo": "Party Rock Anthem",
+            "artista": "LMFAO featuring Lauren Bennett & GoonRock",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/f/f6/Party_Rock_Anthem.jpg",
+            "visualizacoes": 1900000
+          },
+          {
+            "titulo": "Firework",
+            "artista": "Katy Perry",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/b/be/Katy_Perry_Firework.PNG",
+            "visualizacoes": 1800000
+          }
+        ]
+      },
+      {
+        "ano": 2012,
+        "top_musicas": [
+          {
+            "titulo": "Somebody That I Used to Know",
+            "artista": "Gotye featuring Kimbra",
+            "capa":"https://pm1.aminoapps.com/6467/5ea1841f9e42782b9c9a98a807f0900906fd90b2_00.jpg",
+            "visualizacoes": 2200000
+          },
+          {
+            "titulo": "Call Me Maybe",
+            "artista": "Carly Rae Jepsen",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/a/a8/Carly_Rae_Jepsen_-_Call_Me_Maybe_%28capa%29.jpeg",
+            "visualizacoes": 2100000
+          },
+          {
+            "titulo": "We Are Young",
+            "artista": "fun. featuring Janelle Monáe",
+            "capa":"https://i.pinimg.com/originals/cf/04/a2/cf04a232b624a15fa5016dc95ede7faa.jpg",
+            "visualizacoes": 2000000
+          }
+        ]
+      },
+      {
+        "ano": 2013,
+        "top_musicas": [
+          {
+            "titulo": "Blurred Lines",
+            "artista": "Robin Thicke featuring T.I. & Pharrell",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/4/44/Capa_de_Blurred_Lines_%28%C3%A1lbum%29.png",
+            "visualizacoes": 2300000
+          },
+          {
+            "titulo": "Radioactive",
+            "artista": "Imagine Dragons",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/e/e9/Capa_de_Radioactive_%28Imagine_Dragons%29.jpg",
+            "visualizacoes": 2200000
+          },
+          {
+            "titulo": "Royals",
+            "artista": "Lorde",
+            "capa":"https://i1.sndcdn.com/artworks-000111452182-60ul0s-t500x500.jpg",
+            "visualizacoes": 2100000
+          }
+        ]
+      },
+      {
+        "ano": 2014,
+        "top_musicas": [
+          {
+            "titulo": "Happy",
+            "artista": "Pharrell Williams",
+            "capa":"https://i1.sndcdn.com/artworks-000079184494-1nll8c-t500x500.jpg",
+            "visualizacoes": 2400000
+          },
+          {
+            "titulo": "Dark Horse",
+            "artista": "Katy Perry featuring Juicy J",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/0/08/Katy_Perry_-_Dark_Horse.jpg",
+            "visualizacoes": 2300000
+          },
+          {
+            "titulo": "All of Me",
+            "artista": "John Legend",
+            "capa":"https://i.discogs.com/hSCKfD63gSAlMNmtcRRDgpnIhlAjaMvJJG0oyDTO_mY/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDQ3/NzgtMTQxMzY1NTcx/MC01MTgyLmpwZWc.jpeg",
+            "visualizacoes": 2200000
+          }
+        ]
+      },
+      {
+        "ano": 2015,
+        "top_musicas": [
+          {
+            "titulo": "Uptown Funk",
+            "artista": "Mark Ronson featuring Bruno Mars",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/9/9e/Uptown_Special.jpg",
+            "visualizacoes": 2500000
+          },
+          {
+            "titulo": "See You Again",
+            "artista": "Wiz Khalifa featuring Charlie Puth",
+            "capa":"https://i1.sndcdn.com/artworks-000116177725-alap1o-t500x500.jpg",
+            "visualizacoes": 2400000
+          },
+          {
+            "titulo": "Thinking Out Loud",
+            "artista": "Ed Sheeran",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/b/b7/Capa_de_Thinking_Out_Loud.png",
+            "visualizacoes": 2300000
+          }
+        ]
+      }
+    ]
+  }

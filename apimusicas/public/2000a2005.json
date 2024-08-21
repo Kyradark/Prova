@@ -1,0 +1,143 @@
+{
+    "musicas_virais": [
+      {
+        "ano": 2000,
+        "top_musicas": [
+          {
+            "titulo": "Smooth",
+            "artista": "Santana featuring Rob Thomas",
+            "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaNficL3f1vszpAjrijOohlcb5zXPDGHtibw&s",
+            "visualizacoes": 1000000
+          },
+          {
+            "titulo": "Oops!... I Did It Again",
+            "artista": "Britney Spears",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/0/0e/Capa_do_%C3%A1lbum_Oops%21...I_Did_It_Again_%282000%29_de_Britney_Spears.jpg",
+            "visualizacoes": 950000
+          },
+          {
+            "titulo": "It's My Life",
+            "artista": "Bon Jovi",
+            "capa":"https://lastfm.freetls.fastly.net/i/u/ar0/b20d5853ed63480dc8112bfaadb7921c.jpg",
+
+            "visualizacoes": 900000
+          }
+        ]
+      },
+      {
+        "ano": 2001,
+        "top_musicas": [
+          {
+            "titulo": "Hanging by a Moment",
+            "artista": "Lifehouse",
+            "capa":"https://upload.wikimedia.org/wikipedia/en/6/67/Lifehousehangingbyamoment.jpg",
+            "visualizacoes": 1100000
+          },
+          {
+            "titulo": "Lady Marmalade",
+            "artista": "Christina Aguilera, Lil' Kim, Mýa, Pink",
+            "capa":"https://i.scdn.co/image/ab67616d0000b273f4edb1118ffdcb6a2484f9e1",
+            "visualizacoes": 1050000
+          },
+          {
+            "titulo": "Survivor",
+            "artista": "Destiny's Child",
+            "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI9NUj87uuF3SNZI06uHIJr1LG2URFTPAnAQ&s",
+            "visualizacoes": 980000
+          }
+        ]
+      },
+      {
+        "ano": 2002,
+        "top_musicas": [
+          {
+            "titulo": "How You Remind Me",
+            "artista": "Nickelback",
+            "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjJh-tq1tjYS7WvO5n30lkSfik3fFi9ZhONQ&s",
+            "visualizacoes": 1200000
+          },
+          {
+            "titulo": "Complicated",
+            "artista": "Avril Lavigne",
+            "capa":"https://i1.sndcdn.com/artworks-quv3eGT2hz2UCZjn-xlT8Nw-t500x500.jpg",
+            "visualizacoes": 1150000
+          },
+          {
+            "titulo": "A Thousand Miles",
+            "artista": "Vanessa Carlton",
+            "capa":"https://m.media-amazon.com/images/I/41H9VVD3G2L._UF1000,1000_QL80_.jpg",
+            "visualizacoes": 1000000
+          }
+        ]
+      },
+      {
+        "ano": 2003,
+        "top_musicas": [
+          {
+            "titulo": "In da Club",
+            "artista": "50 Cent",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/0/06/50_Cent_-_In_da_Club.jpg",
+            "visualizacoes": 1300000
+          },
+          {
+            "titulo": "Bring Me to Life",
+            "artista": "Evanescence",
+            "capa":"https://i1.sndcdn.com/artworks-000065985701-ozora5-t500x500.jpg",
+            "visualizacoes": 1180000
+          },
+          {
+            "titulo": "Crazy in Love",
+            "artista": "Beyoncé featuring Jay-Z",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/4/4b/Beyonc%C3%A9_-_Crazy_in_Love.jpg",
+            "visualizacoes": 1100000
+          }
+        ]
+      },
+      {
+        "ano": 2004,
+        "top_musicas": [
+          {
+            "titulo": "Yeah!",
+            "artista": "Usher featuring Lil Jon and Ludacris",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/8/89/Yeah%21_can%C3%A7%C3%A3o.png",
+            "visualizacoes": 1400000
+          },
+          {
+            "titulo": "This Love",
+            "artista": "Maroon 5",
+            "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIUFeCXVylEU9SiQmgCmmsonAdIYh4VE6cqA&s",
+            "visualizacoes": 1250000
+          },
+          {
+            "titulo": "Hey Ya!",
+            "artista": "OutKast",
+            "capa":"https://i.discogs.com/ZklXql_9pQuhVTyCfkN2Z7BjpQ6StA15_tBuQaWT4tM/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTE4/OS0xMjQ2MjgyODUx/LmpwZWc.jpeg",
+            "visualizacoes": 1150000
+          }
+        ]
+      },
+      {
+        "ano": 2005,
+        "top_musicas": [
+          {
+            "titulo": "We Belong Together",
+            "artista": "Mariah Carey",
+            "capa":"https://upload.wikimedia.org/wikipedia/pt/6/6f/Webelongtogether.jpg",
+            "visualizacoes": 1500000
+          },
+          {
+            "titulo": "Gold Digger",
+            "artista": "Kanye West featuring Jamie Foxx",
+            "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh-hZ2v3tX9eudYu8Si1_A4uStw1i33CFjMw&s",
+            "visualizacoes": 1350000
+          },
+          {
+            "titulo": "Since U Been Gone",
+            "artista": "Kelly Clarkson",
+            "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa-iN9JBMRquAZgaWKRoVUF4-vhpzjMogQfg&s",
+            "visualizacoes": 1200000
+          }
+        ]
+      }
+    ]
+  }
