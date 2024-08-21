@@ -1,0 +1,158 @@
+{
+    "previsao_tempo": [
+        {
+            "cidade": "São Paulo",
+            "estado": "SP",
+            "temperatura_atual": 20,
+            "condicao": "Ensolarado",
+            "icone": "https://static.vecteezy.com/ti/vetor-gratis/p3/26734864-plano-projeto-sol-icone-ensolarado-clima-vetor.jpg"
+        },
+        {
+            "cidade": "Rio de Janeiro",
+            "estado": "RJ",
+            "temperatura_atual": 28,
+            "condicao": "Parcialmente nublado",
+            "icone": "https://cdn-icons-png.flaticon.com/512/11166/11166783.png"
+        },
+        {
+            "cidade": "Belo Horizonte",
+            "estado": "MG",
+            "temperatura_atual": 25,
+            "condicao": "Chuvas esparsas",
+            "icone": "https://static.vecteezy.com/ti/vetor-gratis/p1/7388708-chuva-com-sol-cor-icone-sol-e-chuvoso-chuva-chuva-chuva-chuva-nuvem-sol-e-pingos-de-chuva-previsao-do-tempo-isolado-ilustracaoial-vetor.jpg"
+        },
+        {
+            "cidade": "Curitiba",
+            "estado": "PR",
+            "temperatura_atual": 15,
+            "condicao": "Nublado",
+            "icone": "https://png.pngtree.com/png-clipart/20230920/original/pngtree-partly-cloudy-color-icon-icon-web-drawing-vector-png-image_12462345.png"
+        },
+        {
+            "cidade": "Salvador",
+            "estado": "BA",
+            "temperatura_atual": 29,
+            "condicao": "Ensolarado com poucas nuvens",
+            "icone": "https://cdn5.colorir.com/desenhos/color/201126/71242ac170189e73b2c1db25c76c60e2.png"
+        },
+        {
+            "cidade": "Porto Alegre",
+            "estado": "RS",
+            "temperatura_atual": 24,
+            "condicao": "Chuvas isoladas",
+            "icone": "https://img.freepik.com/vetores-premium/nuvens-cinzentas-com-chuva-desenho-de-chuva-ou-nuvem-de-trovao-isolada-no-fundo-branco-clima-verao_657999-11245.jpg"
+        },
+        {
+            "cidade": "Manaus",
+            "estado": "AM",
+            "temperatura_atual": 31,
+            "condicao": "Quente e úmido",
+            "icone": "https://cdn-icons-png.flaticon.com/512/1216/1216511.png"
+        },
+        {
+            "cidade": "Recife",
+            "estado": "PE",
+            "temperatura_atual": 30,
+            "condicao": "Muito quente e ensolarado",
+            "icone": "https://cdn-icons-png.flaticon.com/512/875/875513.png"
+        },
+        {
+            "cidade": "Fortaleza",
+            "estado": "CE",
+            "temperatura_atual": 32,
+            "condicao": "Extremamente quente e ensolarado",
+            "icone": "https://cdn-icons-png.flaticon.com/512/1874/1874340.png"
+        },
+        {
+            "cidade": "Goiânia",
+            "estado": "GO",
+            "temperatura_atual": 26,
+            "condicao": "Quente com possibilidade de chuvas",
+            "icone": "https://cdn-icons-png.flaticon.com/512/1925/1925851.png"
+        },
+        {
+            "cidade": "São Luís",
+            "estado": "MA",
+            "temperatura_atual": 29,
+            "condicao": "Calor intenso e úmido",
+            "icone": "https://cdn-icons-png.flaticon.com/512/185/185260.png"
+        },
+        {
+            "cidade": "Vitória",
+            "estado": "ES",
+            "temperatura_atual": 22,
+            "condicao": "Nublado com possíveis chuvas leves",
+            "icone": "https://cdn-icons-png.flaticon.com/512/1480/1480374.png"
+        },
+        {
+            "cidade": "João Pessoa",
+            "estado": "PB",
+            "temperatura_atual": 27,
+            "condicao": "Ensolarado com algumas nuvens",
+            "icone": "https://cdn-icons-png.flaticon.com/512/1147/1147731.png"
+        },
+        {
+            "cidade": "Aracaju",
+            "estado": "SE",
+            "temperatura_atual": 28,
+            "condicao": "Quente e ensolarado",
+            "icone": "https://cdn-icons-png.flaticon.com/512/1744/1744622.png"
+        },
+        {
+            "cidade": "Campo Grande",
+            "estado": "MS",
+            "temperatura_atual": 23,
+            "condicao": "Céu limpo e seco",
+            "icone": "https://cdn-icons-png.flaticon.com/512/2966/2966580.png"
+        },
+        {
+            "cidade": "Cuiabá",
+            "estado": "MT",
+            "temperatura_atual": 34,
+            "condicao": "Muito quente e seco",
+            "icone": "https://cdn-icons-png.flaticon.com/512/1001/1001642.png"
+        },
+        {
+            "cidade": "Maceió",
+            "estado": "AL",
+            "temperatura_atual": 30,
+            "condicao": "Ensolarado com algumas nuvens",
+            "icone": "https://cdn-icons-png.flaticon.com/512/481/481251.png"
+        },
+        {
+            "cidade": "Belém",
+            "estado": "PA",
+            "temperatura_atual": 28,
+            "condicao": "Quente e chuvoso",
+            "icone": "https://cdn-icons-png.flaticon.com/512/1828/1828920.png"
+        },
+        {
+            "cidade": "Natal",
+            "estado": "RN",
+            "temperatura_atual": 29,
+            "condicao": "Quente e parcialmente nublado",
+            "icone": "https://cdn-icons-png.flaticon.com/512/881/881501.png"
+        },
+        {
+            "cidade": "Uberlândia",
+            "estado": "MG",
+            "temperatura_atual": 22,
+            "condicao": "Parcialmente nublado",
+            "icone": "https://cdn-icons-png.flaticon.com/512/883/883788.png"
+        },
+        {
+            "cidade": "Londrina",
+            "estado": "PR",
+            "temperatura_atual": 18,
+            "condicao": "Nublado com chuvas esparsas",
+            "icone": "https://cdn-icons-png.flaticon.com/512/322/322603.png"
+        },
+        {
+            "cidade": "Joinville",
+            "estado": "SC",
+            "temperatura_atual": 19,
+            "condicao": "Chuva leve e nublado",
+            "icone": "https://cdn-icons-png.flaticon.com/512/1163/1163674.png"
+        }
+    ]
+}

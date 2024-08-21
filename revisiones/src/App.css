@@ -1,0 +1,28 @@
+img{
+  width: 90px;
+  background-color: white;
+}
+
+.didi{
+  background-color: rgb(75, 145, 75);
+}
+
+body{
+  background-color: rgb(12, 78, 12);
+
+}
+
+.inputzinhe{
+  margin-bottom: 5%;
+    margin-top: 2%;
+
+}
+.pesquisar{
+  height: 10%;
+  background-color: white;
+  margin-top: 2%;
+  margin-left: 1%;
+}
+.pesq{
+  display: flex;
+}
